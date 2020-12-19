@@ -16,6 +16,7 @@ body {
     background-color 150ms var(--timing-function);
 
   text-align: center;
+  background-color: #ffffff;
 }
 
 button {
